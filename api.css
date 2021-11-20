@@ -1,0 +1,77 @@
+@import url('https://pro.fontawesome.com/releases/v5.10.0/css/all.css');
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(243, 241, 241);
+} */
+
+
+
+.data{
+    background-color: rgba(211, 211, 211, 0.76);
+}
+
+/* .data1 div{ */
+    /* padding: 3px 15px 3px 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    display: flex; */
+    /* display: inline; */
+    /* margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    background: #f3f3f3;
+    font-weight: 500;
+    font-size: 13px;
+    height: 36px;
+    border: 1px solid transparent;
+    color: black; */
+/* } */
+#data1  div img{
+    height: 20px;
+    width: 18px;
+}
+
+.data >article {
+    display: flex;
+}
+
+.data >article div{
+    padding: 19px;
+    margin-right: 5px;
+    margin-left: 46px;
+    margin-top: 30px;
+    border-radius: 20px;
+    background: white;
+    height: 14px;
+    justify-content: center;
+    
+}
+
+.fetch1 div{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+.fetch1 div p{
+    padding: 58px;
+     margin-right: 85px;
+    margin-left: 135px; 
+    /* margin: 0 auto; */
+    border-radius: 20px;
+    background: white;
+    width: 30%;
+}
+.fetch2{
+    font-size: 61px;
+    font-weight: 700;
+    padding-left: 53px;
+    font-family: "Quicksand", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+.fetch3{
+    font-size: 20px;
+    font-weight: 800;
+}
