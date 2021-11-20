@@ -1,2 +1,2 @@
-# covidApi
+# ApiProjects
 this covid api project
